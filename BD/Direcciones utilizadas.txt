@@ -1,0 +1,13 @@
+Solicitud a endpoint:
+Tasa de mortalidad dese 1974 (Banco Mundial): https://datos.bancomundial.org/indicador/SH.DYN.MORT?locations=PE
+
+Páginas en las que se realizó web scraping (UGME childmortality.org):
+- Tasa de mortalidad infantil desde 1952: https://childmortality.org/all-cause-mortality/data/estimates?indicator=MRY0&refArea=PER
+- Tasa de mortalidad infantil femenina desde 1952: https://childmortality.org/all-cause-mortality/data/estimates?indicator=MRY0&refArea=PER&sex=F
+- Tasa de mortalidad infantil masculina: https://childmortality.org/all-cause-mortality/data/estimates?indicator=MRY0&refArea=PER&sex=M
+- Causas de mortalidad infantil (2017 - 2021):
+https://childmortality.org/causes-of-death/data/estimates?indicator=MRY0&refArea=PER&sex=_T&age=M0&type=FRACTION&d_refArea=PER&ifex=CAUSE_OF_DEATH&cause=ASPHY_TRAUMA&year=2021&causes=ASPHY_TRAUMA&causes=MENINGITIS_ENC&causes=PREMATURITY
+https://childmortality.org/causes-of-death/data/estimates?indicator=MRY0&refArea=PER&sex=_T&age=M0&type=FRACTION&d_refArea=PER&ifex=CAUSE_OF_DEATH&cause=ASPHY_TRAUMA&causes=ASPHYTRAUMA&causes=MENINGITIS_ENC&causes=PREMATURITY&year=2020
+https://childmortality.org/causes-of-death/data/estimates?indicator=MRY0&refArea=PER&sex=_T&age=M0&type=FRACTION&d_refArea=PER&ifex=CAUSE_OF_DEATH&cause=ASPHY_TRAUMA&causes=ASPHY_TRAUMA&causes=MENINGITIS_ENC&causes=PREMATURITY&year=2019
+https://childmortality.org/causes-of-death/data/estimates?indicator=MRY0&refArea=PER&sex=_T&age=M0&type=FRACTION&d_refArea=PER&ifex=CAUSE_OF_DEATH&cause=ASPHY_TRAUMA&causes=ASPHY_TRAUMA&causes=MENINGITIS_ENC&causes=PREMATURITY&year=2018
+https://childmortality.org/causes-of-death/data/estimates?indicator=MRY0&refArea=PER&sex=_T&age=M0&type=FRACTION&d_refArea=PER&ifex=CAUSE_OF_DEATH&cause=ASPHY_TRAUMA&causes=ASPHY_TRAUMA&causes=MENINGITIS_ENC&causes=PREMATURITY&year=2017
