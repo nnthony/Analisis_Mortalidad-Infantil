@@ -4,9 +4,10 @@ A continuación se presenta una interpretación detallada de cada imagen incluid
 
 ---
 
-## 🖼️ Imagen 1: Tasa de Mortalidad Infantil en el Perú (por cada 1000 nacidos vivos)
+##  Imagen 1: Tasa de Mortalidad Infantil en el Perú (por cada 1000 nacidos vivos)
 
-
+![](resources/Imagen1.png)
+![](resources/Imagen2.png)
 
 Se observa una **disminución sostenida** en la tasa.
 Refleja avances en salud pública, cobertura de vacunación, acceso a servicios de salud y programas materno-infantiles.
@@ -15,7 +16,7 @@ Muestra el impacto positivo de políticas sanitarias implementadas desde los añ
 ---
 
 ## 🖼️ Imagen 2: Comparación de Mortalidad Infantil Masculina y Femenina
-
+![](resources/Imagen5.png)
 
 Gráfico comparativo de la tasa de mortalidad entre varones y mujeres menores de un año.
 
@@ -23,8 +24,8 @@ Probablemente existan a **factores biológicos** que hacen a los varones más vu
 
 ---
 
-## 🖼️ Imagen 3: Tasa de Mortalidad Infantil por Departamento (Mapa de Calor)
-
+##  Imagen 3: Tasa de Mortalidad Infantil por Departamento (Mapa de Calor)
+![](resources/Imagen10.png)
 
 Mapa del Perú coloreado por intensidad de mortalidad infantil por región.
 Regiones como **Loreto, Ucayali y Puno** presentan las tasas más altas.
@@ -33,7 +34,7 @@ Denota **desigualdades regionales** y deficiencias en el acceso a salud en zonas
 ---
 
 ## 🖼️ Imagen 4: Número de Muertes Infantiles por Departamento
-
+![](resources/Imagen11.png)
 Gráfico de barras por cantidad total de muertes infantiles según departamento.
 
 **Lima Metropolitana** lidera por volumen absoluto debido a su **mayor población**.
@@ -41,9 +42,9 @@ Sin embargo, regiones con menos población pero con muchas muertes (ej. Loreto) 
 
 ---
 
-## 🖼️ Imagen 5: Evolución de Nacimientos Anuales en el Perú
+##  Imagen 5: Evolución de Nacimientos Anuales en el Perú
 
-
+![](resources/Imagen7.png)
 
 
 
@@ -54,14 +55,14 @@ Existe una **tendencia descendente** en nacimientos.
 
 ---
 
-## 🖼️ Imagen 6: Causas Principales de Mortalidad Infantil (2017–2021)
+##  Imagen 6: Causas Principales de Mortalidad Infantil (2017–2021)
 
+![](resources/Imagen13.png)
 
-- Gráfico de barras o categorías que agrupa las principales causas médicas de muerte infantil.
+Gráfico de barras o categorías que agrupa las principales causas médicas de muerte infantil.
 
-- La **prematuridad** es la causa más común cada año.
-- Le siguen **anomalías congénitas** y **asfixia perinatal**.
-- Enfermedades como VIH y lesiones tienen **incidencia casi nula**, lo que refleja éxito en campañas de vacunación y prevención.
+- La **prematuridad** es la causa más común cada año, por lo que se deberían impulsar políticas públicas para asistencia médica especializada en estos casos.
+- Le siguen **anomalías congénitas** y **asfixia perinatal** .
 
 ---
 
